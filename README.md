@@ -16,8 +16,9 @@ git clone https://github.com/AnabFaiaz21/Part1_Mini_Project.git
 
 ## File Descriptions
 
-notebook.ipynb: This IPython Notebook file contains the code and examples for generating the dynamic HTML content.
-output.html: The generated HTML file that displays the interactive Plotly and Matplotlib graphs, Markdown text, tables, equations, colored text, and the embedded image.
+**notebook.ipynb**: This IPython Notebook file contains the code and examples for generating the dynamic HTML content.
+
+**output.html**: The generated HTML file that displays the interactive Plotly and Matplotlib graphs, Markdown text, tables, equations, colored text, and the embedded image.
 
 ## Preview
 
