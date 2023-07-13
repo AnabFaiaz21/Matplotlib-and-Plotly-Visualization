@@ -20,5 +20,5 @@ git clone https://github.com/AnabFaiaz21/Part1_Mini_Project.git
 
 **output.html**: The generated HTML file that displays the interactive Plotly and Matplotlib graphs, Markdown text, tables, equations, colored text, and the embedded image.
 
-## Preview
+
 
